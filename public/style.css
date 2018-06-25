@@ -1,0 +1,57 @@
+body {
+  margin: 5;
+  padding: 5;
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  color: goldenrod;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+.title {
+  text-align: center;
+  color: goldenrod;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+/* p {
+  text-align: center;
+  color: goldenrod;
+  font-style: oblique;
+  font-weight: lighter;
+  font-size: 55px;
+  font-display: block;
+  text-decoration: underline;
+}
+
+div{
+  text-align: center;
+} */
+
+/* p.rainbow {
+-webkit-animation: rainbow 10s infinite;
+ display: flex;
+ justify-content: center;
+ align-content: center;
+ font-size: 72px;
+ padding-top: 25px;
+ margin: 0px;
+ text-decoration: none;
+}
+
+@-webkit-keyframes rainbow{
+25%{color: #00ff00;}
+50%{colour: #ffffff;}
+75%{color: #ff0000;}
+100%{colour: #ffffff;}
+}
+
+<p class="rainbow">RANDOM-A-TRON 6000</p> */
